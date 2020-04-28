@@ -1,5 +1,5 @@
 <h1>MWL - CRM System</h1>
-I had a week to work on a CRM system, this was a task done as part of the hiring process for the specific company I ended up working for. I had ot design a database structure and explain the way my system would interract with it, but ended up creating an entire working "prototype" CRM platform, all within the same time period.
+I had a week to work on a CRM system, this was a task done as part of the hiring process for the specific company I ended up working for. The original task revolved around designing a database structure and explaining the way a CRM system would interract with it. Instead, I over-delivered by creating an entire working "prototype" for the given concept, with back-end and front-end working as would be expected of a final product, all within the same time period.
 
 <h2>Technologies used are:</h2>
 
