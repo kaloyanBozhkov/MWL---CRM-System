@@ -1,12 +1,13 @@
 <h1>MWL - CRM System</h1>
-I had a week to work on a CRM system, this was a task done as part of the hiring process for the specific company I ended up working for. I had ot design a database structure and explain the way my system would interract with it, but ended up finishing the entire task as an entire "prototype" kind of thing, all within the same time period.
+I had a week to work on a CRM system, this was a task done as part of the hiring process for the specific company I ended up working for. I had ot design a database structure and explain the way my system would interract with it, but ended up creating an entire working "prototype" CRM platform, all within the same time period.
 
 <h2>Technologies used are:</h2>
 
-- JavaScript (JQuery library)
+- JavaScript (with JQuery library)
 - PHP
-- mySQL
+- MySQL
 - CSS3
+- HTML5
 
 Online version available at: www.kaloyanbozhkov.com
 
