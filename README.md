@@ -11,6 +11,8 @@ I had a week to work on a CRM system, this was a task done as part of the hiring
 
 Online version available at: www.kaloyanbozhkov.com
 
+Demo: https://www.youtube.com/watch?v=HR83b1AoC40
+
 Sign in credentials:
 - username: <b>mwl1_username</b>
 - password: <b>mwl1_password</b>
