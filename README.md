@@ -9,7 +9,7 @@ I had a week to work on a CRM system, this was a task done as part of the hiring
 - CSS3
 - HTML5
 
-Online version available at: www.kaloyanbozhkov.com
+Online version available at: https://www.kaloyanbozhkov.com/mwl/
 
 Demo: https://www.youtube.com/watch?v=HR83b1AoC40
 
